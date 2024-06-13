@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2932"
+   viewBox="0 0 576 576.00002"
+   version="1.1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="book.svg"
+   width="576"
+   height="576"
+   inkscape:export-filename="workspaces/play/flutter/vocab_deck_builder/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1011"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="68.338983"
+     inkscape:cy="317.28814"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2932"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true">
+    <sodipodi:guide
+       position="-485.12592,527.17311"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-434.98305,47.728815"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="47.728814,216.94916"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="528.27119,65.084748"
+       orientation="1,0"
+       id="guide4"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="g4201"
+     transform="matrix(0.85888398,0,0,0.84625349,44.231987,51.566103)">
+    <g
+       transform="matrix(13.626264,0,0,10.554174,-185.16305,-8.8762076)"
+       id="g4004">
+      <path
+         style="fill:#505050"
+         inkscape:connector-curvature="0"
+         d="M 18,54 H 49 V 11 H 18 Z"
+         id="path2948" />
+      <path
+         style="fill:#783600;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 14,6 v 43 c 0,3 3,5 5,5 H 54 V 1 H 19 c -3,0 -5,2 -5,5 z"
+         id="path3978" />
+      <path
+         style="fill:#dddddd"
+         inkscape:connector-curvature="0"
+         d="m 16,48 c 0,2 1,4 4,4 H 52 V 44 H 20 c -3,0 -4,2 -4,4 z"
+         id="path3980" />
+      <path
+         style="fill:#a84a00;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="M 23,44 H 54 V 1 H 23 Z"
+         id="path3982" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3989"
+       d="m 74.703222,98.018161 c -27.548023,0 -50.396501,7.913159 -69.1851808,20.214329 V 264.3517 C 25.213998,244.55426 48.533744,230.87741 74.703222,230.87741 H 551.91588 V 98.018161 Z"
+       style="fill:#6f6e6e;fill-opacity:0.539952;stroke-width:11.6837" />
+    <text
+       xml:space="preserve"
+       style="font-size:120px;fill:#5b5751;fill-opacity:0.539952;stroke:#000000;stroke-width:3.53294;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="133.07561"
+       y="218.72862"
+       id="text1"
+       transform="scale(1.0333756,0.96770233)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="133.07561"
+         y="218.72862"
+         style="fill:#5b5751;fill-opacity:0.539952;stroke-width:3.53294;stroke-dasharray:none">Vocab</tspan></text>
+  </g>
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>books</dc:title>
+        <dc:date>2013-10-12T15:15:12</dc:date>
+        <dc:description>book pack</dc:description>
+        <dc:source>https://openclipart.org/detail/184800/books-by-crisg-184800</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>crisg</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>book</rdf:li>
+            <rdf:li>book folder</rdf:li>
+            <rdf:li>book library</rdf:li>
+            <rdf:li>book pack</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>library</rdf:li>
+            <rdf:li>libreria</rdf:li>
+            <rdf:li>libri</rdf:li>
+            <rdf:li>my books</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

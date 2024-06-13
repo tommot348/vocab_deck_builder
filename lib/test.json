@@ -1,0 +1,29 @@
+[
+    {
+        "lang": "it",
+        "hits": [
+            {
+                "type": "entry",
+                "opendict": false,
+                "roms": [
+                    {
+                        "headword": "inghiottire",
+                        "headword_full": "inghiottire <span class=\"phonetics\">[iŋgjoˈttiːre]<\/span> <span class=\"wordclass\"><acronym title=\"verb\">VB<\/acronym><\/span> <span class=\"verbclass\"> <abbr title=\"verbo transitivo / transitives Verb\">trans<\/abbr> <\/span>",
+                        "wordclass": "verb",
+                        "arabs": [
+                            {
+                                "header": "",
+                                "translations": [
+                                    {
+                                        "source": "<strong class=\"headword\">inghiottire<\/strong>",
+                                        "target": "(ver-, hinunter)schlucken"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

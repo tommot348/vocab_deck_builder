@@ -1,0 +1,11 @@
+{
+    "basePath":"",
+    "decks": [
+    ],
+    "translators": {
+        "pons":  {
+            "api-key": ""
+        },
+        "no translation": {}
+    }
+}
